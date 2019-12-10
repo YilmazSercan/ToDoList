@@ -1,2 +1,6 @@
 # ToDoList
-Preparation
+-Preparation
+-Making branches
+-Clone
+-add and commit
+
